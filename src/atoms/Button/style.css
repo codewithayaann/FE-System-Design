@@ -1,0 +1,22 @@
+.btn {
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    width: fit-content;
+    margin: 1px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.btn--primary {
+    background-color: blue;
+    color: white;
+}
+
+.btn--secondary {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
